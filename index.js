@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var variance = require('variance');
+var variance = require('component-variance');
 
 /**
  * Return the standard deviation of `arr` with optional callback `fn(val, i)`.
